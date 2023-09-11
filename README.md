@@ -1,4 +1,4 @@
-# reward-modeling-rlhf-gpt2-vs-opt-350m
+# Comparative Study: Training OPT-350M and GPT-2 on Anthropic’s HH-RLHF Dataset Using Reward-Based Training
 
 
 This study focuses on comparing two renowned models: Facebook’s opt-350m and GPT-2. Both models are trained and tested on the Anthropic/hh-rlhf dataset having 160800 rows, offering insights into their respective performances and potential strengths.
